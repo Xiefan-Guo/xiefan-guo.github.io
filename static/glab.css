@@ -2,7 +2,7 @@ TABLE {
 	VERTICAL-ALIGN: top; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
 }
 BODY {
-	FONT-SIZE: 16px; COLOR: black; FONT-FAMILY: "Palatino Linotype", "Times New Roman", "New Century Schoolbook", Times, serif; BACKGROUND-COLOR: white
+	FONT-SIZE: 16px; COLOR: black; FONT-FAMILY: "Palatino Linotype", "High Tower Text", "Calibri", "Times New Roman", "New Century Schoolbook", Times, serif; BACKGROUND-COLOR: white
 }
 IMG {
 	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
@@ -20,7 +20,7 @@ P {
 	MARGIN-TOP: 0px; font-size: 16px
 }
 A {
-	FONT-WEIGHT: bolder; TEXT-DECORATION: none
+	FONT-WEIGHT: normal; TEXT-DECORATION: none
 }
 A:link {
 	COLOR: #0645AD
